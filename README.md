@@ -1,7 +1,7 @@
 # Project Web Portfolio
 
 **Haikal Mukti**  
-NIM: 24051204065
+NIM: 24051204036
 Kelas: TI 2024B  
 
 Website portofolio ini merupakan hasil dari proyek yang dirancang untuk memenuhi penugasan Ujian Tengah Semester mata kuliah Pemrograman Berbasis Platform, yang diampu oleh Bapak Rifqi Abdillah, S.Tr.T., M.Kom.
