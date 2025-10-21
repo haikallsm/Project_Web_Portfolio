@@ -52,3 +52,8 @@ Web ini berisi 3 halaman utama:
 ![gcs](assets/detail_gcs.PNG)
 ![e-commerce](assets/detail_e-commerce.PNG)
 
+---
+
+## Link Youtube
+
+https://youtu.be/iTmkqWtvpIk
